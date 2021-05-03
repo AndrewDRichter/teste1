@@ -1,1 +1,2 @@
-patoinha
+patoinha.png
+testeignore.txt
